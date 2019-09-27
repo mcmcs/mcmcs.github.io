@@ -1,2 +1,3 @@
 # mcmcs.github.io
-personal webpage
+This repo contains files for Minchul Shin's personal webpage.
+

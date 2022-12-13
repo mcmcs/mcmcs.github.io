@@ -1,22 +1,45 @@
 ---
-layout: archive
+layout: single
+classes: wide
 ---
 
 {{ content }}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<h3>Welcome to my webpage!</h3> 
+<div class="norm"> 
+  I'm an Economic Advisor and Machine Learning Economist at the <a href='https://www.philadelphiafed.org/' target="blank">Federal Reserve Bank of Philadelphia</a>. 
+  I also serve as an associate editor at the <a href='https://forecasters.org/ijf/' target="blank"> <i>International Journal of Forecasting</i></a>, 
+  and teach econometrics at the <a href='https://statistics.wharton.upenn.edu' target="blank">Wharton School</a>. I was previously an assistant professor of economics at the University of Illinois at Urbana-Champaign.
+<br>
+<br>
 
-{% if paginator %}
+<h6>Curriculum Vitae</h6>
+<div class="norm"><a href='https://mcmcs.github.io/minchul_cv.pdf' target="blank">Download CV</a></div>
+<!-- <h6>What's New?</h6> -->
+
+<!--
+
+  ---
+  layout: archive
+  ---
+  
+  {{ content }}
+  
+  <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+  
+  {% if paginator %}
   {% assign posts = paginator.posts %}
-{% else %}
+  {% else %}
   {% assign posts = site.posts %}
-{% endif %}
-
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
-  {% for post in posts %}
+  {% endif %}
+  
+  {% assign entries_layout = page.entries_layout | default: 'list' %}
+  <div class="entries-{{ entries_layout }}">
+    {% for post in posts %}
     {% include archive-single.html type=entries_layout %}
-  {% endfor %}
-</div>
-
-{% include paginator.html %}
+    {% endfor %}
+  </div>
+  
+  {% include paginator.html %}
+  
+-->

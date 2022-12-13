@@ -1,3 +1,6 @@
+# NOTE:
+# Type bundle exec jekyll serve, and then a template website will be locally hosted at localhost:4000/.
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -12,15 +15,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Econ, ML, and Emma"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Minchul Shin"
+description              : "Minchul Shin's personal site."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,18 +107,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "Minchul Shin"
+  avatar           : "/assets/images/minchulshin_sm.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Economic Advisor and Machine Learning Economist at the Federal Reserve Bank of Philadelphia."
+  location         : #"Somewhere"
   email            :
   links:
-    - label: "Email"
+    - label: "My Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
+      url: "mailto:visiblehand@gmail.com"
+    - label: "My FRB-PHIL page"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://www.philadelphiafed.org/our-people/minchul-shin"
+    - label: "My Google Scholar"
+      icon: "fa fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=au2rrlcAAAAJ&hl=en"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -230,6 +236,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jemoji
 
 # mimic GitHub Pages with --safe
 whitelist:

@@ -10,6 +10,8 @@ main:
      url: /teaching/
    - title: "Emma"
      url: /emma/
+  # - title: "Emma2"
+  #   url: /emma2/
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"

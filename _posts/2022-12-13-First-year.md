@@ -1,8 +1,8 @@
 ---
-title:  "Emma Year Two"
+title:  "Emma, Year One"
 ---
 
-More photos from Emma's second year (2022-2023) :feet:
+More photos from Emma's first year (2021--2022) :feet:
 
 
 {% include figure image_path="/assets/images/emma01d.jpg" caption="Getting to know mommy and daddy" %}

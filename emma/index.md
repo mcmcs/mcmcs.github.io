@@ -6,8 +6,16 @@ author_profile: true
 This is a page for Emma :feet:  Emma was born in September 2021 and came to us about eight weeks later. 
 She is one of the most happiest dogs in the town. Here are some photos:
 
-1. [First year (2020-2021)]({{ site.baseurl }}{% link _posts/2022-12-13-First year.md %})
-2. [Second year (2021-2022)]({{ site.baseurl }}{% link _posts/2022-12-13-Second year.md %})
+1. [First year (2021-2022)]({{ site.baseurl }}{% link _posts/2022-12-13-First-year.md %})
+2. [Second year (2022-2023)]({{ site.baseurl }}{% link _posts/2022-12-13-Second-year.md %})
+
+{% include figure image_path="/assets/images/image_6487327-5.JPG" caption="xxx" %}
+
+{% include figure image_path="/assets/images/image_6487327-4.JPG" caption="xxx" %}
+
+{% include figure image_path="/assets/images/image_6487327-2.JPG" caption="xxx" %}
+
+{% include figure image_path="/assets/images/image_6487327.JPG" caption="xxx" %}
 
 {% include figure image_path="/assets/images/emma14.jpg" caption="xxx" %}
 
@@ -23,7 +31,7 @@ She is one of the most happiest dogs in the town. Here are some photos:
 
 {% include figure image_path="/assets/images/emma08.jpg" caption="xxx" %}
 
-{% include figure image_path="/assets/images/emma07.jpg" caption="xxx" %}
+{% include figure image_path="/assets/images/emma07b.jpg" caption="xxx" %}
 
 {% include figure image_path="/assets/images/emma06.jpg" caption="xxx" %}
 

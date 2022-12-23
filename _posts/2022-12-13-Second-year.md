@@ -4,7 +4,11 @@ title:  "Emma, Year Two"
 
 More photos from Emma's second year (2022-2023) :feet:
 
+{% include figure image_path="/assets/images/IMG_4686.jpg" caption="2022/12/22, New pictures arrived!" %} 
+
 {% include figure image_path="/assets/images/image_123927839.jpg" caption="2022/12/21, Taking a rest - too cold to be outside." %} 
+
+{% include figure image_path="/assets/images/IMG_4630.jpg" caption="2022/12/19, Working hard." %} 
 
 {% include figure image_path="/assets/images/IMG_4618_b.jpg" caption="2022/12/19, Walking at night." %} 
 

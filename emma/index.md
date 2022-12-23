@@ -11,7 +11,11 @@ She is one of the happiest dogs in the town. You can scroll down see some of my 
 
 Here are some of my favorite photos:
 
+{% include figure image_path="/assets/images/IMG_4686.jpg" caption="2022/12/22, New pictures arrived!" %} 
+
 {% include figure image_path="/assets/images/image_123927839.jpg" caption="2022/12/21, Taking a rest - too cold to be outside." %} 
+
+{% include figure image_path="/assets/images/IMG_4630.jpg" caption="2022/12/19, Working hard." %} 
 
 {% include figure image_path="/assets/images/IMG_4618_b.jpg" caption="2022/12/19, Walking at night." %} 
 

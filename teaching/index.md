@@ -8,22 +8,24 @@ author_profile: true
 
 This year, I am teaching Applied Econometrics I and Applied Econometrics II at the Wharton School. This is a year-long sequence that covers most of the chapters from a book by Wooldridge, ***Econometric Analysis of Cross Section and Panel Data***.
 
-### 2023 Spring
+### Spring 2023
 
-- *Applied Econometrics II* (STAT 5210), Spring 2023
+- ***Applied Econometrics II*** (STAT 5210), Spring 2023
 
-### 2023 Fall
+### Fall 2023
 
-- *Applied Econometrics I*  (STAT 5200), Fall 2023
+- ***Applied Econometrics I***  (STAT 5200), Fall 2023
 
+<p>&nbsp;</p>
 
 ## Past courses
 
-I have taught the following courses at the University of Illinois at Urbana-Champaign:
+I was an instructor for the following courses at the University of Illinois at Urbana-Champaign:
 
 - ***Applied Macroeconometrics*** (Ph.D.), Fall 2015 and Fall 2016, Spring 2018.
 - ***Time Series Analysis in Economics*** (Master), Spring 2018, Fall 2018.
 - ***Economic Forecasting*** (Undergraduate), Spring 2016, Fall 2016, Spring 2018, Spring 2019.
+
 
 And, I was a teaching assistant (or, recitation instructor) for the following courses at the University of Pennsylvania:
 

@@ -19,7 +19,7 @@ minimal_mistakes_skin    : "default" # "default" "air", "aqua", "contrast", "dar
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Econ, ML, and Emma"
+title                    : "Minchul Shin" #"Econ, ML, and Emma"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Minchul Shin"
@@ -29,7 +29,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -116,7 +116,7 @@ author:
     - label: "My CV"
       icon: "fa fa-id-card "
       url: "https://mcmcs.github.io/minchul_cv.pdf"
-    - label: "My Email"
+    - label: "visiblehand@gmail.com"
       icon: "fa fa-envelope"
       url: "mailto:visiblehand@gmail.com"
     - label: "My FRB-PHIL page"

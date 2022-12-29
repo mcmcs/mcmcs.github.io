@@ -6,7 +6,7 @@ author_profile: true
 
 ## Current courses (2023)
 
-This year, I am teaching Applied Econometrics I and Applied Econometrics II at the Wharton School. This is a year-long sequence that covers most of the chapters from a book by Wooldridge, ***Econometric Analysis of Cross Section and Panel Data***.
+This year, I am teaching Applied Econometrics I and Applied Econometrics II at the Wharton School. This is a year-long sequence that covers most of the chapters from ***Econometric Analysis of Cross Section and Panel Data*** by Wooldridge.
 
 ### Spring 2023
 
@@ -18,7 +18,7 @@ This year, I am teaching Applied Econometrics I and Applied Econometrics II at t
 
 <p>&nbsp;</p>
 
-## Past courses
+## Past courses (2010-2019)
 
 I was an instructor for the following courses at the University of Illinois at Urbana-Champaign:
 

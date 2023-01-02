@@ -16,13 +16,13 @@ This year, I am teaching Applied Econometrics I and Applied Econometrics II at t
 
 - ***Applied Econometrics I***  (STAT 5200), Fall 2023
 
-<p>&nbsp;</p>
+<!-- <p>&nbsp;</p> -->
 
 ## Past courses (2010-2019)
 
 I was an instructor for the following courses at the University of Illinois at Urbana-Champaign:
 
-- ***Applied Macroeconometrics*** (Ph.D.), Fall 2015 and Fall 2016, Spring 2018.
+- ***Applied Macroeconometrics*** (Ph.D.), Fall 2015, Fall 2016, Spring 2018.
 - ***Time Series Analysis in Economics*** (Master), Spring 2018, Fall 2018.
 - ***Economic Forecasting*** (Undergraduate), Spring 2016, Fall 2016, Spring 2018, Spring 2019.
 

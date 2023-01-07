@@ -2,6 +2,8 @@
 main:
    - title: "Home"
      url: /
+   - title: "CV"
+     url: /minchul_cv.pdf
    - title: "Research papers"
      url: /research/
    - title: "Discussions"

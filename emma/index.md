@@ -34,7 +34,7 @@ Here are some of my favorite photos:
 
 <!-- {% include figure image_path="/assets/images/emma10.jpg" caption="2022/9/30, Birthday party!" %} -->
 
-{% include figure image_path="/assets/images/image_6487327-4.JPG" caption="2022/9/30, Waiting for a birthday cake." %}
+{% include figure image_path="/assets/images/image_6487327-4.jpg" caption="2022/9/30, Waiting for a birthday cake." %}
 
 <!-- {% include figure image_path="/assets/images/emma04.jpg" caption="2022/8/20, After the first swim." %} -->
 

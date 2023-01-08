@@ -6,7 +6,7 @@ More photos from Emma's first year (2021--2022) :feet:
 
 {% include figure image_path="/assets/images/emma04.jpg" caption="2022/8/20, After the first swim." %}
 
-{% include figure image_path="/assets/images/img_2646.jpg" caption="2022/7/7, Learning how to wait." %}
+{% include figure image_path="/assets/images/IMG_2646.jpg" caption="2022/7/7, Learning how to wait." %}
 
 {% include figure image_path="/assets/images/img_5873.jpg" caption="2022/6/17, Falling asleep..." %}
 

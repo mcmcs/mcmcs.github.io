@@ -26,7 +26,8 @@ Here are some of my favorite photos:
 
 <!-- {% include figure image_path="/assets/images/image_6483441.JPG" caption="2022/10/28, Holloween time." %} -->
 
-{% include figure image_path="/assets/images/emma08.jpg" caption="2022/10/26, Photo time - Smiley faces. In front of a present from mommy." %}
+{% include figure image_path="/assets/images/emma08.jpg" caption="Photo time - Smiley faces. In front of a present from mommy." %}
+<!-- 2022/10/26,  -->
 
 <!-- {% include figure image_path="/assets/images/emma12.jpg" caption="2022/10/22, Fall!" %} -->
 
@@ -34,7 +35,8 @@ Here are some of my favorite photos:
 
 <!-- {% include figure image_path="/assets/images/emma10.jpg" caption="2022/9/30, Birthday party!" %} -->
 
-{% include figure image_path="/assets/images/image_6487327-4.jpg" caption="2022/9/30, Waiting for a birthday cake." %}
+{% include figure image_path="/assets/images/image_6487327-4.jpg" caption="Waiting for a birthday cake." %}
+<!-- 2022/9/30, -->
 
 <!-- {% include figure image_path="/assets/images/emma04.jpg" caption="2022/8/20, After the first swim." %} -->
 
@@ -42,7 +44,8 @@ Here are some of my favorite photos:
 
 <!-- {% include figure image_path="/assets/images/image_6487327.JPG" caption="I am not ready to get out of bed. " %} -->
 
-{% include figure image_path="/assets/images/emma11.jpg" caption="2022/4/28, Taking a rest." %}
+{% include figure image_path="/assets/images/emma11.jpg" caption="Taking a rest." %}
+<!-- 2022/4/28,  -->
 
 <!-- {% include figure image_path="/assets/images/emma09.jpg" caption="2022/4/24, Excited to be outside." %} -->
 
@@ -52,6 +55,7 @@ Here are some of my favorite photos:
 
 <!-- {% include figure image_path="/assets/images/emma14.jpg" caption="2022/2/8, Can't work ... too sleepy." %} -->
 
-{% include figure image_path="/assets/images/emma02.jpg" caption="2021/11/14, Getting to know mommy and daddy." %}
+{% include figure image_path="/assets/images/emma02.jpg" caption="Getting to know mommy and daddy." %}
+<!-- 2021/11/14,  -->
 
 <!-- {% include figure image_path="/assets/images/emma01.jpg" caption="2021/11/13, First Day." %} -->

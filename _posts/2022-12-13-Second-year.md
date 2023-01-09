@@ -4,36 +4,50 @@ title:  "Emma, Year Two"
 
 More photos from Emma's second year (2022-2023) :feet:
 
-{% include figure image_path="/assets/images/IMG_4887.jpg" caption="2023/1/4, Is this edible?!?!" %}
+{% include figure image_path="/assets/images/IMG_4887.jpg" caption="Is this edible?!?!" %}
+<!-- 2023/1/4,  -->
 
-{% include figure image_path="/assets/images/IMG_4847.jpg" caption="2023/1/1, The best way to start the new year." %}
+{% include figure image_path="/assets/images/IMG_4847.jpg" caption="The best way to start the new year." %}
+<!-- 2023/1/1,  -->
 
-{% include figure image_path="/assets/images/IMG_4819.jpg" caption="2022/12/30, All packages have to go through Emma's inspection." %}
+{% include figure image_path="/assets/images/IMG_4819.jpg" caption="All packages have to go through Emma's inspection." %}
+<!-- 2022/12/30,  -->
 
-{% include figure image_path="/assets/images/IMG_4748.jpg" caption="2022/12/23, A big treat for Christmas. Making a wish." %}
+{% include figure image_path="/assets/images/IMG_4748.jpg" caption="A big treat for Christmas. Making a wish." %}
+<!-- 2022/12/23,  -->
 
-{% include figure image_path="/assets/images/IMG_4730.jpg" caption="2022/12/23, These paintings are from Korea, by a Korean artist, Shin Cheol. Mommy's favorite artist. The last one just arrived right before Christmas." %}
+{% include figure image_path="/assets/images/IMG_4730.jpg" caption="These paintings are from Korea, by a Korean artist, Shin Cheol. Mommy's favorite artist. The last one just arrived right before Christmas." %}
+<!-- 2022/12/23,  -->
 
-{% include figure image_path="/assets/images/IMG_4686.jpg" caption="2022/12/22, New pictures arrived!" %} 
+{% include figure image_path="/assets/images/IMG_4686.jpg" caption="New pictures arrived!" %} 
+<!-- 2022/12/22,  -->
 
-{% include figure image_path="/assets/images/image_123927839.jpg" caption="2022/12/21, Taking a rest - too cold to be outside." %} 
+{% include figure image_path="/assets/images/image_123927839.jpg" caption="Taking a rest - too cold to be outside." %} 
+<!-- 2022/12/21,  -->
 
-{% include figure image_path="/assets/images/IMG_4630.jpg" caption="2022/12/19, Working hard." %} 
+{% include figure image_path="/assets/images/IMG_4630.jpg" caption="Working hard." %} 
+<!-- 2022/12/19,  -->
 
-{% include figure image_path="/assets/images/IMG_4618_b.jpg" caption="2022/12/19, Walking at night." %} 
+{% include figure image_path="/assets/images/IMG_4618_b.jpg" caption="Walking at night." %} 
+<!-- 2022/12/19,  -->
 
-<!-- {% include figure image_path="/assets/images/emma06.jpg" caption="2022/11/26, These paintings are from Korea, by a Korean artist, Cheol Shin." %} -->
+{% include figure image_path="/assets/images/emma05.jpg" caption="Is this mine?" %}
+<!-- 2022/11/6,  -->
 
-{% include figure image_path="/assets/images/emma05.jpg" caption="2022/11/6, Is this mine?" %}
+{% include figure image_path="/assets/images/image_6483441.jpg" caption="Holloween time." %}
+<!-- 2022/10/28,  -->
 
-{% include figure image_path="/assets/images/image_6483441.jpg" caption="2022/10/28, Holloween time." %}
+{% include figure image_path="/assets/images/emma08.jpg" caption="Photo time - Smiley faces. In front of a present from mommy." %}
+<!-- 2022/10/26,  -->
 
-{% include figure image_path="/assets/images/emma08.jpg" caption="2022/10/26, Photo time - Smiley faces. In front of a present from mommy." %}
+{% include figure image_path="/assets/images/emma12.jpg" caption="Fall!" %}
+<!-- 2022/10/22,  -->
 
-{% include figure image_path="/assets/images/emma12.jpg" caption="2022/10/22, Fall!" %}
+{% include figure image_path="/assets/images/image_6487327-5.jpg" caption="Just about to go for a walk." %}
+<!-- 2022/10/8,  -->
 
-{% include figure image_path="/assets/images/image_6487327-5.jpg" caption="2022/10/8, Just about to go for a walk." %}
+{% include figure image_path="/assets/images/emma10.jpg" caption="Birthday party!" %}
+<!-- 2022/9/30,  -->
 
-{% include figure image_path="/assets/images/emma10.jpg" caption="2022/9/30, Birthday party!" %}
-
-{% include figure image_path="/assets/images/image_6487327-4.jpg" caption="2022/9/30, Waiting for a birthday cake." %}
+{% include figure image_path="/assets/images/image_6487327-4.jpg" caption="Waiting for a birthday cake." %}
+<!-- 2022/9/30,  -->

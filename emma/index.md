@@ -11,7 +11,7 @@ She is one of the happiest dogs in the town. You can scroll down see some of my 
 
 Here are some of my favorite photos:
 
-{% include figure image_path="/assets/images/IMG_4730.jpg" caption="These paintings are from Korea, by a Korean artist, Shin Cheol. Mommy's favorite artist. The last one just arrived right before Christmas." %}
+{% include figure image_path="/assets/images/IMG_4730.jpg" caption="These paintings are from Korea, by a Korean artist, Shin Cheol. Mommy's favorite artist." %}
 <!-- 2022/12/23,  -->
 
 {% include figure image_path="/assets/images/emma08.jpg" caption="Photo time - Smiley faces. In front of a present from mommy." %}

@@ -16,7 +16,7 @@ More photos from Emma's second year (2022-2023) :feet:
 {% include figure image_path="/assets/images/IMG_4748.jpg" caption="A big treat for Christmas. Making a wish." %}
 <!-- 2022/12/23,  -->
 
-{% include figure image_path="/assets/images/IMG_4730.jpg" caption="These paintings are from Korea, by a Korean artist, Shin Cheol. Mommy's favorite artist. The last one just arrived right before Christmas." %}
+{% include figure image_path="/assets/images/IMG_4730.jpg" caption="These paintings are from Korea, by a Korean artist, Shin Cheol. Mommy's favorite artist." %}
 <!-- 2022/12/23,  -->
 
 {% include figure image_path="/assets/images/IMG_4686.jpg" caption="New pictures arrived!" %} 

@@ -2,6 +2,7 @@
 layout: single
 classes: wide
 author_profile: true
+title: Teaching
 ---
 
 ## Current courses (2023)

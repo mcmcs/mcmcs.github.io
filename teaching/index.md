@@ -5,7 +5,7 @@ author_profile: true
 title: Teaching
 ---
 
-## Current courses (2023)
+<h2>  Current courses (2023)</h2> 
 
 This year, I am teaching Applied Econometrics I and Applied Econometrics II at the Wharton School. This is a year-long sequence that covers most of the chapters from ***Econometric Analysis of Cross Section and Panel Data*** by Wooldridge.
 

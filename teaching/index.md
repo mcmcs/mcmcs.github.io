@@ -19,7 +19,6 @@ This year, I am teaching Applied Econometrics I and Applied Econometrics II at t
 ### Link to course web site
 
 Above courses are using Canvas. You can gain access by going to
-
 [https://canvas.upenn.edu/](https://canvas.upenn.edu/).
 
 

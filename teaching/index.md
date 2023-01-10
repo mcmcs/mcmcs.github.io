@@ -17,7 +17,10 @@ This year, I am teaching Applied Econometrics I and Applied Econometrics II at t
 - ***Applied Econometrics I***  (STAT 5200), Fall 2023
 
 ### Link to course web site
-https://canvas.upenn.edu/
+
+Above courses are using Canvas. You can gain access by going to
+
+[https://canvas.upenn.edu/](https://canvas.upenn.edu/).
 
 
 <!-- <p>&nbsp;</p> -->

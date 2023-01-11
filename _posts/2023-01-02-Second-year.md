@@ -32,8 +32,9 @@ More photos from Emma's second year (2022-2023) :feet:
 {% include figure image_path="/assets/images/IMG_4618_b.jpg" caption="Walking at night." %} 
 <!-- 2022/12/19,  -->
 
+<!--
 {% include figure image_path="/assets/images/emma05.jpg" caption="Is this mine?" %}
-<!-- 2022/11/6,  -->
+ 2022/11/6,  -->
 
 {% include figure image_path="/assets/images/image_6483441.jpg" caption="Holloween time." %}
 <!-- 2022/10/28,  -->

@@ -13,8 +13,9 @@ More photos from Emma's first year (2021--2022) :feet:
 {% include figure image_path="/assets/images/IMG_5873.jpg" caption="Falling asleep..." %}
 <!-- 2022/6/17,  -->
 
+<!--
 {% include figure image_path="/assets/images/IMG_2134.jpg" caption="Waiting for daddy." %}
-<!-- 2022/5/10,  -->
+ 2022/5/10,  -->
 
 {% include figure image_path="/assets/images/emma11.jpg" caption="Taking a rest." %}
 <!-- 2022/4/28,  -->

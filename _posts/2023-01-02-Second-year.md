@@ -4,6 +4,9 @@ title:  "Emma, Year Two"
 
 More photos from Emma's second year (2022-2023) :feet:
 
+{% include figure image_path="/assets/images/IMG_4988.jpg" caption="Waiting for daddy to be back. Got bored ... " %}
+<!-- 2023/1/12,  -->
+
 {% include figure image_path="/assets/images/IMG_4887.jpg" caption="Is this edible?!?!" %}
 <!-- 2023/1/4,  -->
 

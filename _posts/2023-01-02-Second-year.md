@@ -4,6 +4,18 @@ title:  "Emma, Year Two"
 
 More photos from Emma's second year (2022-2023) :feet:
 
+{% include figure image_path="/assets/images/IMG_5609.jpg" caption="Please, no more rain. I am praying." %}
+<!-- ,  -->
+
+{% include figure image_path="/assets/images/IMG_5490.jpg" caption="I got a free treat from this place. They know how to make me happy." %}
+<!-- 2023/3/5,  -->
+
+{% include figure image_path="/assets/images/IMG_5392.jpg" caption="Daddy's favorite ice cream place. I love ice cream too!" %}
+<!-- 2023/3/5,  -->
+
+{% include figure image_path="/assets/images/IMG_5683.jpg" caption="Waiting is not always fun" %}
+<!-- 2023/3/26,  -->
+
 {% include figure image_path="/assets/images/IMG_5471.jpg" caption="Can I go inside?" %}
 <!-- 2023/3/5,  -->
 

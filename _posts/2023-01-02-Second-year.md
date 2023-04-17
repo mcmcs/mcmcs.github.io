@@ -10,7 +10,7 @@ More photos from Emma's second year (2022-2023) :feet:
 {% include figure image_path="/assets/images/IMG_5865.jpg" caption="Oh well ... tell me that's mine." %}
 <!-- ,  -->
 
-{% include figure image_path="/assets/images/IMG_8672-preview.jpg" caption="Where are we going today?!?" %}
+{% include figure image_path="/assets/images/IMG_8672-preview.jpg" caption="It's selfie time! I've been practicing how to make the best smile!" %}
 <!-- ,  -->
 
 {% include figure image_path="/assets/images/IMG_5609.jpg" caption="Please, no more rain. I am praying." %}

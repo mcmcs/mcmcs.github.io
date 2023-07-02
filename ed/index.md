@@ -7,7 +7,7 @@ This is a page for Emma & Dolly :feet:  :feet:
 
 **Emma**  was born in September 2021 and came to us about eight weeks later. She is one of the happiest dogs in the town. 
 
-**Dolly** was born in March 2023 and came to us about 12 weeks later. While I am still learning about her, I can say that she is the cutest dogs in the town at the moment. 
+**Dolly** was born in March 2023 and came to us about twelve weeks later. While I am still learning about her, I can say that she is the cutest dogs in the town at the moment. 
 
 Here are some of my favorite photos:
 
@@ -34,25 +34,4 @@ Here are some of my favorite photos:
 {% include figure image_path="/assets/images2/IMG_6466.jpg" caption="" %}
 
 
-
-
-These are old photos:
-
-{% include figure image_path="/assets/images/IMG_8672-preview.jpg" caption="It's selfie time! I've been practicing how to make the best smile!" %}
-<!-- ,  -->
-
-{% include figure image_path="/assets/images/IMG_4730.jpg" caption="These paintings are from Korea, by a Korean artist, Shin Cheol. Mommy's favorite artist." %}
-<!-- 2022/12/23,  -->
-
-{% include figure image_path="/assets/images/emma08.jpg" caption="Photo time - Smiley faces. In front of a present from mommy." %}
-<!-- 2022/10/26,  -->
-
-{% include figure image_path="/assets/images/image_6487327-4.jpg" caption="Waiting for a birthday cake." %}
-<!-- 2022/9/30, -->
-
-{% include figure image_path="/assets/images/emma11.jpg" caption="Taking a rest." %}
-<!-- 2022/4/28,  -->
-
-{% include figure image_path="/assets/images/emma02.jpg" caption="Getting to know mommy and daddy." %}
-<!-- 2021/11/14,  -->
 

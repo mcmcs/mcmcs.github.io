@@ -10,8 +10,8 @@ main:
      url: /discussion/
    - title: "Teaching"
      url: /teaching/
-   - title: "Emma & Dolly"
-     url: /ed/
+  # - title: "Emma & Dolly"
+  #   url: /ed/
   # - title: "Emma"
   #   url: /emma/
   # - title: "Emma2"

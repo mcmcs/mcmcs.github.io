@@ -3,6 +3,8 @@ layout: single
 author_profile: true
 ---
 
+{% comment %} 
+
 This is a page for Emma & Dolly :feet:  :feet:
 
 {% include figure image_path="/assets/images2/IMG_6485.jpg" caption="" %}
@@ -33,5 +35,5 @@ Here are some of my favorite photos:
 
 {% include figure image_path="/assets/images2/IMG_6466.jpg" caption="" %}
 
-
+{% endcomment %} 
 

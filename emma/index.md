@@ -3,13 +3,15 @@ layout: single
 author_profile: true
 ---
 
+{% comment %} 
+
 This is a page for Emma :feet:  Emma was born in September 2021 and came to us about eight weeks later. 
 She is one of the happiest dogs in the town. You can scroll down see some of my favorite photos or click links below to see more photos.
 
-{% comment %} 
+
 1. [Year one (2021-2022)]({{ site.baseurl }}{% link _posts/2023-01-01-First-year.md %})
 2. [Year two (2022-2023)]({{ site.baseurl }}{% link _posts/2023-01-02-Second-year.md %})
-{% endcomment %} 
+
 
 Here are some of my favorite photos:
 
@@ -31,3 +33,4 @@ Here are some of my favorite photos:
 {% include figure image_path="/assets/images/emma02.jpg" caption="Getting to know mommy and daddy." %}
 <!-- 2021/11/14,  -->
 
+{% endcomment %} 

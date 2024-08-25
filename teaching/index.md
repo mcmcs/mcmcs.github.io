@@ -13,7 +13,7 @@ I am teaching Applied Econometrics I and Applied Econometrics II at the Wharton 
 
 - ***Applied Econometrics I***  (STAT 5200), Fall 2023, Fall 2024.
 
-- ***Applied Econometrics II*** (STAT 5210), Spring 2023, Spring 2024, nSpring 2025.
+- ***Applied Econometrics II*** (STAT 5210), Spring 2023, Spring 2024, Spring 2025.
 
 Above courses are using Canvas. You can gain access by going to
 [https://canvas.upenn.edu/](https://canvas.upenn.edu/).

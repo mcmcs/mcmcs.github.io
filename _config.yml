@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Minchul Shin"
-  avatar           : "/assets/images2/minchulshin_dolly2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images2/minchulshin_emma3.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Senior Economic Advisor and Machine Learning Economist at the Federal Reserve Bank of Philadelphia."
   location         : #"Somewhere"
   email            :

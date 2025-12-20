@@ -6,6 +6,33 @@
   <script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
 {% endif %}
 
+<script>
+// Highlight active navigation item
+(function() {
+  var path = window.location.pathname;
+  var navLinks = document.querySelectorAll('.masthead__menu-item a');
+  
+  navLinks.forEach(function(link) {
+    var href = link.getAttribute('href');
+    var isActive = false;
+    
+    if (href === '/' || href === '/index.html') {
+      // Home link - only active on root
+      isActive = (path === '/' || path === '/index.html');
+    } else if (href && !href.endsWith('.pdf')) {
+      // Other links - check if current path starts with the link href
+      var hrefPath = href.replace(/\/$/, ''); // remove trailing slash
+      var currentPath = path.replace(/\/$/, '').replace(/\/index\.html$/, '');
+      isActive = currentPath.startsWith(hrefPath) || currentPath === hrefPath;
+    }
+    
+    if (isActive) {
+      link.parentElement.classList.add('masthead__menu-item--active');
+    }
+  });
+})();
+</script>
+
 {% if site.search == true or page.layout == "search" %}
   {%- assign search_provider = site.search_provider | default: "lunr" -%}
   {%- case search_provider -%}

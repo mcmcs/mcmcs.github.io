@@ -4,12 +4,14 @@ main:
      url: /
    - title: "CV"
      url: /minchul_cv.pdf
-   - title: "Research papers"
+   - title: "Research"
      url: /research/
-   - title: "Discussions"
-     url: /discussion/
+   - title: "AI/ML"
+     url: /ml/
    - title: "Teaching"
      url: /teaching/
+   - title: "Discussions"
+     url: /discussion/
   # - title: "Econcal"
   #   url: /econcal/
   # - title: "Emma & Dolly"

@@ -6,19 +6,25 @@ author_profile: true
 
 <div style="height: 1em;"></div>
 
-I am currently teaching graduate-level econometrics, covering cross-section and panel data methods. Previously, I have also taught econometrics, time series, economic forecasting, and applied methods for macroeconomists at undergraduate and graduate level.
+I teach graduate-level courses in econometrics and machine learning for economists. Previously, I have also taught econometrics, time series, economic forecasting, and applied methods for macroeconomists at undergraduate and graduate level.
 
 <div style="height: 1em;"></div>
 
-## Current courses (since 2023) 
+## Current and upcoming courses
 
-I am teaching Applied Econometrics I and Applied Econometrics II at the Wharton School. This is a year-long sequence that covers most of the chapters from ***Econometric Analysis of Cross Section and Panel Data*** by Wooldridge:
+- ***Machine Learning for Economists***, University of Pennsylvania Department of Economics, Spring 2027. Stay tuned for lecture materials.
+
+<div style="height: 1em;"></div>
+
+## Recent courses at Wharton (2023-2026)
+
+I taught Applied Econometrics I and Applied Econometrics II at the Wharton School. This is a year-long sequence that covers most of the chapters from ***Econometric Analysis of Cross Section and Panel Data*** by Wooldridge:
 
 - ***Applied Econometrics I***  (STAT 5200), Fall 2023, 2024, 2025.
 
 - ***Applied Econometrics II*** (STAT 5210), Spring 2023, 2024, 2025, 2026.
 
-Above courses are using Canvas. You can gain access by going to
+Course materials for the Wharton courses were distributed through Canvas:
 [https://canvas.upenn.edu/](https://canvas.upenn.edu/).
 
 

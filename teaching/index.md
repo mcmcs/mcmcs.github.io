@@ -12,7 +12,7 @@ I teach graduate-level courses in econometrics and machine learning for economis
 
 ## Current and upcoming courses
 
-- ***Machine Learning for Economists***, University of Pennsylvania Department of Economics, Spring 2027. Stay tuned for lecture materials.
+- ***Machine Learning for Economists***, master-level course, University of Pennsylvania Department of Economics, Spring 2027. Stay tuned for lecture materials.
 
 <div style="height: 1em;"></div>
 
